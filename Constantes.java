@@ -9,7 +9,7 @@ public class Constantes {
         // Fórmula: F = m * g;
         double m = .450;
         double f = m * G;
-        System.outprintln("La tierra atrae a un balón de fútbol con una fuerza de " + f + " newtons.")
+        System.outprintln("La tierra atrae a un balón de fútbol con una fuerza de " + f + " newtons")
 
 
     }
